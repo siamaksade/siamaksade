@@ -1,6 +1,8 @@
 ### About me
 
-Technical product manager with a passion for technology and deep expertise in software engineering and application development workflows. Experience in identifying high-potential open source projects and leading cross-functional teams across marketing, engineering and business units to take to market as products. Currently focused on CI/CD technologies and developer tools on Kubernetes and OpenShift. 
+Technical product manager with a passion for technology and deep expertise in software engineering and application development workflows. Experience in identifying high-potential open source projects and leading cross-functional teams across marketing, engineering and business units to take to market as products. 
+
+I'm currently focused on CI/CD technologies such as Shipwright, Jenkins, Tekton, Argo CD and developer tools such as Helm on OpenShift. 
 
 <!--
 **siamaksade/siamaksade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
